@@ -47,7 +47,31 @@ values
 
 
 Passo 7:
+
 select *
 from pessoas;
+
+Passo 8:
+
+insert into pessoas values
+(default, 'Gabriela', '1988-10-13', 'F', '65.6', '1.60', 'Brasil');
+
+Passo 9:
+
+select *
+from pessoas;
+
+Passo 10:
+
+insert into pessoas values
+(default, 'Gecir', '1970-07-30', 'M', '70.2', '1.70', 'Brasil'),
+(default, 'Salete', '1971-06-22', 'F', '75.6', '1.68', 'Brasil'),
+(default, 'Sergio', '1956-01-26', 'M', '60.1', '1.70', 'Brasil');
+
+Passo 11:
+
+select *
+from pessoas;
+
 
 loading...
