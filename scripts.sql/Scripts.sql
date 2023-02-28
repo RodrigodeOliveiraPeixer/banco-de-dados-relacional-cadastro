@@ -113,6 +113,11 @@ total_aulas int unsigned,
 ano year default '2023'
 ) default charset=utf8;
 
+Passo 19:
+
+alter table cursos
+add column idcurso int first;
+
 
 
 
