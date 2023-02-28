@@ -156,5 +156,14 @@ Passo 17: Alterando o nome da tabela de pessoas para colaboradores.
 </div>
 </br>
 
+<div>
+Passo 18: Criando uma nova tabela cursos;
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221970381-fd7fb63a-408c-4fd8-b2b3-349a8dbe7aae.jpeg" width="980px" />
+</div>
+</br>
+
+
 
 loading...
