@@ -31,5 +31,23 @@ Passo 3: Criando tabela pessoas.
 </div>
 </br>
 
+<div>
+Passo 4: Inserindo dados na tabela.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221742944-65749edd-c65f-48c6-8caf-f6f2b02fd3dd.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 5: Conferindo os dados inseridos na tabela.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221743729-776887b4-1f1f-4216-a831-494440645191.jpeg" width="980px" />
+</div>
+</br>
+
 
 loading...
