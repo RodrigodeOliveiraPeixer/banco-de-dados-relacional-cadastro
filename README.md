@@ -67,5 +67,41 @@ Passo 7: Conferindo os dados default inseridos na tabela, id e nacionalidade.
 </div>
 </br>
 
+<div>
+Passo 8: Inserindo dados sem os dados de referência, desde que seja conhecida a sequência a ser lançada.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221746233-26873426-6869-429e-81ed-8998a22218a8.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 9: Conferindo os dados lançados sem os dados de referência, desde que seja conhecida a sequência a ser lançada.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221746569-80c3131c-07c2-422b-8356-8ee0f392ff85.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 10: inserindo vários cadastros ao mesmo tempo.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221747500-68bcf361-f8bb-49fc-bcc3-0ca7f6397123.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 11: Conferindo se todos os cadastros lançados simultâneamente deram certo.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221747820-e8a83455-21fe-4a6c-a4e0-a0853edeb379.jpeg" width="980px" />
+</div>
+</br>
+
 
 loading...
