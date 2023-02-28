@@ -139,5 +139,22 @@ Passo 15: Alterando a tabela profissão, aumentando o varchar para 20.
 </div>
 </br>
 
+<div>
+Passo 16: Alterando a tabela profissão, para o novo nome atividade_profissional.
+</div>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221965489-8a28919e-475a-4834-8a33-5cfc6ee89409.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 17: Alterando o nome da tabela de pessoas para colaboradores.
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221966150-5e003aaf-49cb-4a49-b68b-8d5320fcdda5.jpeg" width="980px" />
+</div>
+</br>
+
 
 loading...
