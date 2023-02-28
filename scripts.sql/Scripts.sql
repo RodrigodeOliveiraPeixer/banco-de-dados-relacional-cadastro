@@ -103,6 +103,17 @@ Passo 17:
 alter table pessoas
 rename to colaboradores;
 
+Passo 18:
+
+create table if not exists Cursos(
+nome varchar(30) not null unique,
+descricao text,
+carga int unsigned,
+total_aulas int unsigned,
+ano year default '2023'
+) default charset=utf8;
+
+
 
 
 loading...
