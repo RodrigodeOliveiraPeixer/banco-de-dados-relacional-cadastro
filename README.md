@@ -49,5 +49,23 @@ Passo 5: Conferindo os dados inseridos na tabela.
 </div>
 </br>
 
+<div>
+Passo 6: inserindo dados default para conferir se está funcionando os comandos do create table.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221744715-7dcdc0a3-2f97-4044-aa7c-709fbad8911b.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 7: Conferindo os dados default inseridos na tabela, id e nacionalidade.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221745014-76efef24-75ac-4dc9-9e79-520a4de5c611.jpeg" width="980px" />
+</div>
+</br>
+
 
 loading...
