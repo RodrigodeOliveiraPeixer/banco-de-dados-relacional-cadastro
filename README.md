@@ -103,5 +103,41 @@ Passo 11: Conferindo se todos os cadastros lançados simultâneamente deram cert
 </div>
 </br>
 
+<div>
+Passo 12: Alterando a tabela, inserindo campos na tabela no final, mais pra frente vamos mudar ela de posição.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221959150-c991cb2b-fb63-4ad7-bc19-bf8cfee3f67b.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 13: Deletando a coluna profissão, pois vamos adicionar ela novamente em uma posição diferente.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221960241-2905f8d2-d90e-4f38-91ef-baf3f16107e0.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 14: Inserindo novamente profissão na tabela, mas agora na posição após o nome.
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221961137-875884f4-4965-44ef-be4b-759630f7a1ca.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 15: Alterando a tabela profissão, aumentando o varchar para 20.
+</div>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221964014-a2cdd20c-6ed8-4bfb-8bd1-23cf116d3907.jpeg" width="980px" />
+</div>
+</br>
+
 
 loading...
