@@ -73,5 +73,26 @@ Passo 11:
 select *
 from pessoas;
 
+Passo 12:
+
+alter table pessoas
+add column profissao varchar(10);
+
+Passo 13:
+
+alter table pessoas
+drop column profissao;
+
+Passo 14:
+
+alter table pessoas
+add column profissao varchar(10) after nome;
+
+Passo 15:
+
+alter table pessoas
+modify column profissao varchar(20);
+
+
 
 loading...
