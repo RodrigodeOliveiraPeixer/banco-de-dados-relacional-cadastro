@@ -93,6 +93,16 @@ Passo 15:
 alter table pessoas
 modify column profissao varchar(20);
 
+Passo 16:
+
+alter table pessoas
+change column profissao atividade_profissional varchar(20);
+
+Passo 17:
+
+alter table pessoas
+rename to colaboradores;
+
 
 
 loading...
