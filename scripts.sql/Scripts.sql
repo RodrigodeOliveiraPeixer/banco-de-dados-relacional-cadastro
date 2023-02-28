@@ -27,10 +27,26 @@ Passo 4:
 insert into pessoas
 (nome, nascimento, sexo, peso, altura, nacionalidade)
 values
-('Godofredo', '1984-01-02', 'M', '78.5', '1.83', 'Brasil');	 
+('Godofredo', '1984-01-02', 'M', '78.5', '1.83', 'Brasil');	
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Maria', '1999-12-30', 'F', '55.2', '1.65', 'Portugal');	
 
 Passo 5: 
 
+select *
+from pessoas;
+
+
+Passo 6:
+insert into pessoas
+(id, nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+(DEFAULT, 'Rodrigo', '1992-03-04', 'M', '110.0', '1.86', default);
+
+
+Passo 7:
 select *
 from pessoas;
 
