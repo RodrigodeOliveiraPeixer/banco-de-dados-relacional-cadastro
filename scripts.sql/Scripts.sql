@@ -17,8 +17,21 @@ nascimento date,
 sexo enum ('M', 'F'),
 peso decimal (5,2),
 altura decimal (3,2),
-nascionalidade varchar(20) default ' Brasil',
+nacionalidade varchar(20) default ' Brasil',
 primary key (id)
 ) default charset = utf8;
+
+
+Passo 4:
+
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Godofredo', '1984-01-02', 'M', '78.5', '1.83', 'Brasil');	 
+
+Passo 5: 
+
+select *
+from pessoas;
 
 loading...
