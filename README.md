@@ -164,6 +164,14 @@ Passo 18: Criando uma nova tabela cursos;
 </div>
 </br>
 
+<div>
+Passo 19: inserindo o campo id cursos para primary key.
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221971740-28277f0a-5901-4b91-9676-deef16c786bc.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 loading...
