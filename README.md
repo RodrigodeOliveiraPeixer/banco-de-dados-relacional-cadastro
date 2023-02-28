@@ -149,7 +149,7 @@ Passo 16: Alterando a tabela profissão, para o novo nome atividade_profissional
 </br>
 
 <div>
-Passo 17: Alterando o nome da tabela de pessoas para colaboradores.
+Passo 17: Alterando o nome da tabela de pessoas para colaboradores. OBS: veja que nos próximos passos a tabela colaboradores foi modificado para alunos.
 <br>
 <div>
 <img src="https://user-images.githubusercontent.com/109769171/221966150-5e003aaf-49cb-4a49-b68b-8d5320fcdda5.jpeg" width="980px" />
@@ -166,9 +166,19 @@ Passo 18: Criando uma nova tabela cursos;
 
 <div>
 Passo 19: inserindo o campo id cursos para primary key.
+</div>
 <br>
 <div>
 <img src="https://user-images.githubusercontent.com/109769171/221971740-28277f0a-5901-4b91-9676-deef16c786bc.jpeg" width="980px" />
+</div>
+</br>
+
+<div>
+Passo 20: inserindo a tabela id cursos para primary key.
+</div>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/221973163-dc02dba8-ca7e-45d4-a395-14270bc5f6ea.jpeg" width="980px" />
 </div>
 </br>
 
