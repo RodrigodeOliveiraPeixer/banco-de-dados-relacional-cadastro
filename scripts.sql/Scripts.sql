@@ -160,6 +160,11 @@ Passo 25:
 select *
 from cursos;
 
+Passo 26:
+
+delete from cursos
+where idcurso='8';
+
 
 
 
