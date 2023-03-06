@@ -218,6 +218,16 @@ Passo 24: Corrigindo o terceiro erro  nome do curso para JAVA, carga para 40  e 
 </div>
 </br>
 
+<br>
+Passo 25: Conferindo as alterações feitas na tabela cursos se estão corretas:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223200593-7e02fe0a-6f68-4614-aa6f-7226779c6393.jpeg" width="980px" />
+</div>
+</br>
+
+
 
 
 loading...
