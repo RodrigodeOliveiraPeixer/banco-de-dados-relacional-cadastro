@@ -200,6 +200,15 @@ Passo 22: Corrigindo o primeiro erro  nome do curso para HTML5 no idcuro=1:
 </div>
 </br>
 
+<br>
+Passo 23: Corrigindo o segundo erro  nome do curso para PHP e o ano 2015 no idcuro=4:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223199254-3f726ec3-2623-4d84-b39a-73d02e7387f4.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 loading...
