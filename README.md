@@ -209,6 +209,15 @@ Passo 23: Corrigindo o segundo erro  nome do curso para PHP e o ano 2015 no idcu
 </div>
 </br>
 
+<br>
+Passo 24: Corrigindo o terceiro erro  nome do curso para JAVA, carga para 40  e o ano 2015 no idcuro=5 usando no final o limit para limitar a mudança em somente 1 linha caso ocorra algum erro para não alterar mais nenhuma linha no banco:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223199791-0ebd23ed-0956-48e0-881b-425fa1410fcf.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 loading...
