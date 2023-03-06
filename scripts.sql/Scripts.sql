@@ -142,6 +142,12 @@ update cursos
 set nome ='HTML5'
 where idcurso ='1';
 
+Passo 23:
+
+update cursos
+set nome ='PHP', ano ='2015'
+where idcurso ='4';
+
 
 
 
