@@ -191,6 +191,15 @@ Passo 21: Inserindo dados em Cursos com erros de escrita para manipulação de l
 </div>
 </br>
 
+<br>
+Passo 22: Corrigindo o primeiro erro  nome do curso para HTML5 no idcuro=1:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223196901-3b0c3c3f-9894-4f5e-a27a-e797975ba8cd.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 loading...
