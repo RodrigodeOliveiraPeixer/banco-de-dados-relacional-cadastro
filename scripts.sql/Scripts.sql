@@ -136,6 +136,15 @@ insert into cursos values
 ('9','Cozinha Árabe','Aprenda a fazer Kibe','40','30','2018'),
 ('10','Youtuber','Gerar polêmicas e ganhar inscritos','5','2','2018');
 
+Passo 22:
+
+update cursos
+set nome ='HTML5'
+where idcurso ='1';
+
+
+
+
 
 
 
