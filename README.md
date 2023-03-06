@@ -227,6 +227,15 @@ Passo 25: Conferindo as alterações feitas na tabela cursos se estão corretas:
 </div>
 </br>
 
+<br>
+Passo 26: Deletando linhas da tabela cursos, neste exemplo deletei o idcurso=8, para deletar as demais linhas é só adicionar os demais idcurso um por um, nesta tabela irei deletar também o idcurso=9 e 10:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223202244-e1499e18-5350-4e90-aebe-832253b9e8d9.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
