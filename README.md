@@ -182,6 +182,15 @@ Passo 20: inserindo a tabela id cursos para primary key.
 </div>
 </br>
 
+<br>
+Passo 21: Inserindo dados em Cursos com erros de escrita para manipulação de linhas:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223194567-a61ea185-76d9-4b33-a03b-f83d8a14be1e.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 loading...
