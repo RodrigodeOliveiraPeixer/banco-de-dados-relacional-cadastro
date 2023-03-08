@@ -256,6 +256,22 @@ Passo 28: Deletando o banco de dados (Drop) para testar o backup realizado anter
 </div>
 </br>
 
+<br>
+Passo 29: Restaurando o banco de dados cadastro que foi realizado o backup:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223607667-0edad509-76fb-4fa8-b8b4-2ca0698a0b5c.jpeg" width="980px" />
+
+<img src="https://user-images.githubusercontent.com/109769171/223607675-2c227955-0e8b-4f54-964e-ef770400ccad.jpeg" width="980px" />
+  
+Tabela alunos restaurada no banco de dados cadastro: 
+<img src="https://user-images.githubusercontent.com/109769171/223608199-52907924-c396-4626-b6c0-c2d4231f1f79.jpeg" width="980px" />
+Tabela cursos restaurada no banco de dados cadastro:
+<img src="https://user-images.githubusercontent.com/109769171/223608210-256a13c6-5fdd-419e-9082-f1f0c6dd83b8.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
