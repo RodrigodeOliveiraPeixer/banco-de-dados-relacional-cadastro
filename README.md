@@ -236,6 +236,18 @@ Passo 26: Deletando linhas da tabela cursos, neste exemplo deletei o idcurso=8, 
 </div>
 </br>
 
+<br>
+Passo 27: Criando um DUMP do banco de dados cadastro:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223604540-cdc28dd9-497c-4ac9-a76a-65bc7609ea10.jpeg" width="980px" />
+
+<img src="https://user-images.githubusercontent.com/109769171/223604610-5a69764e-f0b6-4911-992b-a7e751874bcf.jpeg" width="980px" />
+</div>
+</br>
+
+
 
 
 
