@@ -170,6 +170,12 @@ Passo 27:
 Vá até a aba Server/data export selecione a pasta do banco de dados desejada, se for exportar a estrutura e os dados selecionar Dump Structure and dat,
 selecione se será em um só arquivo ou não e marque include create schema para ele já criar a tabela no arquivo e finalize clicando em star export
 
+Passo 28: 
+
+drop database cadastro;
+
+
+Passo 29:
 
 
 
