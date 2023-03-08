@@ -177,6 +177,9 @@ drop database cadastro;
 
 Passo 29:
 
+Restaurando o banco de dados que foi realizado backup, abra novamente o wampserver e o MySQL Workbench e vá na aba server/data import e depois marque import from 
+self-contained File ache o arquivo dumps salvo e clique em Start Import e atualize o Workbench e deverá aparecer novamente o banco de dados cadastro.
+
 
 
 
