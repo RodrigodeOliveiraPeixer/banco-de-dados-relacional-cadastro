@@ -247,6 +247,15 @@ Passo 27: Criando um DUMP do banco de dados cadastro:
 </div>
 </br>
 
+<br>
+Passo 28: Deletando o banco de dados (Drop) para testar o backup realizado anteriormente:
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/223605809-aa86405c-d104-488b-ae81-c8161a973881.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
